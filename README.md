@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:6C63FF,100:00BFFF&section=header&text=Vitor%20R.%20Brumatti&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:009C3B,50:FFDF00,100:002776&section=header&text=Vitor%20R.%20Brumatti&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=56&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=7C83FD&center=true&vCenter=true&width=700&lines=Building+web+applications+and+digital+products;Frontend+%E2%80%A2+Backend+%E2%80%A2+APIs+%E2%80%A2+Databases;Turning+ideas+into+real+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=009C3B&center=true&vCenter=true&width=780&lines=Building+real+web+applications;Frontend+%E2%80%A2+Backend+%E2%80%A2+APIs+%E2%80%A2+Databases;Turning+ideas+into+working+software" alt="Typing SVG" />
 
 </div>
 
@@ -10,11 +10,11 @@
 
 I'm a **Full Stack Developer** focused on building modern web applications, APIs and complete digital products.
 
-I enjoy working across the entire development process — from creating clean and responsive interfaces to designing backend logic, databases and integrations.
+I enjoy working across the whole development process — from creating clean and responsive interfaces to designing backend logic, databases and integrations.
 
 - 🚀 Building real-world web applications
 - 🧠 Improving my knowledge in software engineering and system design
-- 🔧 Interested in APIs, automation, integrations and scalable applications
+- 🔧 Interested in APIs, automation, integrations and scalable systems
 - 💡 I like turning ideas and business problems into working software
 
 ---
@@ -24,15 +24,12 @@ I enjoy working across the entire development process — from creating clean an
 <div align="center">
 
 ### Front-end
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,js,ts,tailwind&perline=8" />
 
 ### Back-end
-
 <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python&perline=8" />
 
 ### Databases & Tools
-
 <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,docker,git,github,vscode&perline=8" />
 
 </div>
@@ -42,60 +39,45 @@ I enjoy working across the entire development process — from creating clean an
 ## 🚀 Featured Project
 
 ### 💈 HeadBarber
-
 A web platform focused on **barbershop management and scheduling**, created to simplify the relationship between barbershops and their customers through a modern digital experience.
 
 **Current stack:** Next.js • React • TypeScript • Tailwind CSS • Supabase
 
 The project also includes automated testing and external service integrations.
 
-<p>
-  <a href="https://github.com/VitorRBrumatti/headBarber">
-    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+🔗 **Repository:** [github.com/VitorRBrumatti/headBarber](https://github.com/VitorRBrumatti/headBarber)
 
 ---
 
 ## 📌 More Projects
 
-<div align="center">
+### 🗂 Selected repositories
 
-<a href="https://github.com/VitorRBrumatti/Taskademy">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=VitorRBrumatti&repo=Taskademy&theme=tokyonight&hide_border=true" />
-</a>
+- **Taskademy**  
+  Study/project repository available at:  
+  [github.com/VitorRBrumatti/Taskademy](https://github.com/VitorRBrumatti/Taskademy)
 
-<a href="https://github.com/VitorRBrumatti/padaria-lv-demo">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=VitorRBrumatti&repo=padaria-lv-demo&theme=tokyonight&hide_border=true" />
-</a>
+- **padaria-lv-demo**  
+  Demo project repository available at:  
+  [github.com/VitorRBrumatti/padaria-lv-demo](https://github.com/VitorRBrumatti/padaria-lv-demo)
 
-<a href="https://github.com/VitorRBrumatti/websocket-vue">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=VitorRBrumatti&repo=websocket-vue&theme=tokyonight&hide_border=true" />
-</a>
+- **websocket-vue**  
+  Vue project with WebSocket-related studies/implementation:  
+  [github.com/VitorRBrumatti/websocket-vue](https://github.com/VitorRBrumatti/websocket-vue)
 
-<a href="https://github.com/VitorRBrumatti/LaravelStudys">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=VitorRBrumatti&repo=LaravelStudys&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+- **LaravelStudys**  
+  Laravel studies and experiments:  
+  [github.com/VitorRBrumatti/LaravelStudys](https://github.com/VitorRBrumatti/LaravelStudys)
 
 ---
 
 ## 📊 GitHub
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VitorRBrumatti&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRBrumatti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorRBrumatti&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
+- 🔹 Main profile: [github.com/VitorRBrumatti](https://github.com/VitorRBrumatti)
+- 🔹 Featured repository: [HeadBarber](https://github.com/VitorRBrumatti/headBarber)
+- 🔹 Focus areas: Full Stack Development, Web Applications, APIs, Databases
+- 🔹 Main technologies: JavaScript, TypeScript, React, Next.js, Vue, PHP, Laravel, Node.js, Python, Supabase
 
 ---
 
@@ -104,12 +86,20 @@ The project also includes automated testing and external service integrations.
 <div align="center">
 
 <a href="https://github.com/VitorRBrumatti">
-  <img src="https://img.shields.io/badge/GitHub-VitorRBrumatti-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-VitorRBrumatti-002776?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+
 <a href="https://www.linkedin.com/in/vitorbrumatti/">
-  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-009C3B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<!-- Add your portfolio here -->
+<!--
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-VISIT-FFDF00?style=for-the-badge&logo=vercel&logoColor=000000" />
+</a>
+-->
 
 </div>
 
@@ -117,8 +107,8 @@ The project also includes automated testing and external service integrations.
 
 <div align="center">
 
-*"Building, learning and improving — one project at a time."*
+**"Building, learning and improving — one project at a time."**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,50:6C63FF,100:00BFFF&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:009C3B,50:FFDF00,100:002776&section=footer" />
